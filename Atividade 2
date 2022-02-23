@@ -1,0 +1,25 @@
+console.log("Preencha o cadastro")
+
+let data = 22/02/2022
+
+if (data < 23/02/2022) {
+    console.log("Data permitida")
+} else {
+    console.log("Data inválida")
+}
+
+let idade = 18
+
+if (idade >= 18) {
+    console.log("Cadastro permitido")
+} else {
+    console.log("Cadastro não permitido, menor de 18 anos")
+}
+
+let quantidade = 101
+
+if (quantidade <= 100) {
+    console.log("Cadastro concluído")
+} else {
+    console.log("Cadastro não permitido, excedido limite de pessoas")
+}
